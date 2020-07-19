@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Julio Marquez, **Software Engineer** and **Amateur Designer**. 
+
+- 😎 I work as a **Full Stack Developer** at [Toptal](https://go.marquez.co/Toptal) and **Consultant** at [Aceforth](https://aceforth.com?ref=marquez). 
+- 🔭 Previously **Co-Founder** and Full-Stack Developer at [Bazzite](https://www.bazzite.com?ref=marquez). 
+- ❤️ I'm in love with [Open Source](https://github.com/juliomrqz), ☕️ a good Cup of Coffee and 🎨 [design](https://dribbble.com/juliomrqz).
+
+
 <!--
 **juliomrqz/juliomrqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
