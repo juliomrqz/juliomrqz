@@ -7,6 +7,9 @@ I'm Julio Marquez, **Software Engineer** and **Amateur Designer**.
 - ❤️ I'm in love with [Open Source](https://github.com/juliomrqz), ☕️ a good Cup of Coffee and 🎨 [design](https://dribbble.com/juliomrqz).
 
 
+![Julio's github stats](https://github-readme-stats.vercel.app/api?username=juliomrqz&show_icons=true&title_color=161e2e&icon_color=64748b&bg_color=fbfdfe&text_color=475569&cache_seconds=7200&hide=[%22contribs%22])
+
+
 <!--
 **juliomrqz/juliomrqz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
