@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Julio Marquez, **Software Engineer** and **Amateur Designer**. 
+I'm Julio Marquez, **Software Engineer** and Coffee Lover. 
 
 - 😎 I work as a **Full Stack Developer** at [Toptal](https://go.marquez.co/Toptal) and **Consultant** at [Aceforth](https://aceforth.com?ref=marquez). 
 - 🔭 Previously **Co-Founder** and Full-Stack Developer at [Bazzite](https://www.bazzite.com?ref=marquez). 
