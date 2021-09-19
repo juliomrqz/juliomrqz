@@ -2,7 +2,7 @@
 
 I'm Julio Marquez, **Software Engineer** and Coffee Lover. 
 
-- 😎 I work as a **Full Stack Developer** at [Toptal](https://go.marquez.co/Toptal) and **Consultant** at [Aceforth](https://aceforth.com?ref=marquez). 
+- 😎 **Full Stack Developer** at [Bicycle Health](https://www.bicyclehealth.com?ref=julio-marquez), previously at [Toptal](https://go.marquez.co/Toptal). 
 - 🔭 Previously **Co-Founder** and Full-Stack Developer at [Bazzite](https://www.bazzite.com?ref=marquez). 
 - ❤️ I'm in love with [Open Source](https://github.com/juliomrqz), ☕️ a good Cup of Coffee and 🎨 [design](https://dribbble.com/juliomrqz).
 
